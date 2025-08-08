@@ -7,4 +7,6 @@ package-lock.json
 yarn-error.log
 *.bkp
 
+.env
+
 week3/prep-exercise/server-demo/

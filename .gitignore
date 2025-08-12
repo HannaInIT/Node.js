@@ -8,4 +8,6 @@ yarn-error.log
 *.bkp
 .env
 
+.env
+
 week3/prep-exercise/server-demo/

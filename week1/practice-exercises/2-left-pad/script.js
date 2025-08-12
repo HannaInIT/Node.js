@@ -1,3 +1,5 @@
+// const getLeft = require("./padLeft");
+const leftPad = require('left-pad')
 /**
  ** Exercise 2: To the left, to the left...
  * 
@@ -11,3 +13,6 @@
 let numbers = [ "12", "846", "2", "1236" ];
 
 // YOUR CODE GOES HERE
+for (let i = 0; i < numbers.length; i++) {
+  console.log(leftPad(numbers[i], 8, " "));
+}

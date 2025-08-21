@@ -11,3 +11,5 @@ yarn-error.log
 .env
 
 week3/prep-exercise/server-demo/
+
+assignments/hackyourtemperature/sources/keys.js
